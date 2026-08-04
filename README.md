@@ -400,7 +400,7 @@ Thanks to the maintainers of all the git repositories that made these robot desc
 
 ## Citation
 
-If you use this project in your works, please cite as follows:
+If you use this project in your work, please cite as follows:
 
 ```bibtex
 @software{robot_descriptions_py,

@@ -175,7 +175,7 @@ REPOSITORIES: Dict[str, Repository] = {
         cache_path="gym-pybullet-drones",
     ),
     "halodi-robot-models": Repository(
-        url="https://github.com/Halodi/halodi-robot-models.git",
+        url="https://github.com/robot-descriptions/halodi-robot-models.git",
         commit="ba9e7c8cdbd63e20fc6526dbbea1b91c102fb820",
         cache_path="halodi-robot-models",
     ),
