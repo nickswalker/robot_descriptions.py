@@ -14,6 +14,7 @@ All notable changes to this project will be documented in this file.
 ### Fixed
 
 - Update repository for the Eve R3 description after the original one vanished
+- security: Bump gitpython to 3.1.57
 
 ## [3.1.0] - 2026-07-11
 
