@@ -113,6 +113,9 @@ tqdm = ">=4.64.0"
 [tool.pixi.pypi-dependencies]
 robot_descriptions = { path = ".", editable = true }
 
+[tool.pixi.tasks]
+generate-readme-descriptions = "python scripts/generate_readme_descriptions.py"
+
 # Linting -------------------------------------------------------------------
 
 [tool.pixi.feature.lint.dependencies]
